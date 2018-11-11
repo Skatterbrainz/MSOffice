@@ -1,4 +1,5 @@
 <Configuration> 
+  <!-- MAKE SURE TO VALIDATE THIS BEFORE PUTTING INTO ACTION !!!!!!!!!!!! -->
   <Info Description="Modify the Version to match the download cache version" />
 	<Add OfficeClientEdition="64" Channel="Broad" OfficeMgmtCOM="TRUE" Version="16.0.9126.2259" AllowCDNFallback="TRUE"> 
 		<Product ID="ProjectProRetail"> 
